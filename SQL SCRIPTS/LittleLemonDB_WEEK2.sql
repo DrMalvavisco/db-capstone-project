@@ -168,5 +168,3 @@ SELECT * FROM Bookings;
 CALL CancelBooking(18);
 SELECT * FROM Bookings;
 
-
-
